@@ -1,6 +1,6 @@
 # API-REST
 
-<p>Agrega notas a una BD co los atributos: nombre, titulo y contenido</p> 
+<p>Agrega notas a una BD con los atributos: nombre, titulo y contenido</p> 
 
 <h3>Herramientas</h3>
 
